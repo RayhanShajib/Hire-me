@@ -1,0 +1,43 @@
+.gapTop{
+    margin-top: 30px;
+}
+img{
+    margin: auto;
+}
+.profileList{
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+.brandColor{
+    color: #0077B9;
+}
+.borderNone{
+    border: none;
+}
+.cardHover{    
+    transition: 0.5s;
+}
+.cardHover:hover{
+    transform: translateY(-15px);
+}
+.buttonContianer{
+    padding: 0;
+    height: 10vh;
+}
+.hireButton{
+    background-color: white;
+    border: none;
+    border-top: 2px solid #0077B9;
+    color: #0077B9;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.hireButton:hover{
+    background-color: #0077B9;
+    border: none;
+    border-top: 2px solid #0077B9;
+    color: white;
+}
+.hireButton:focus{
+    outline: none;
+}

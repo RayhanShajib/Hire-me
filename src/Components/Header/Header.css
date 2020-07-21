@@ -1,0 +1,15 @@
+.headerContainer{
+    text-align: center;
+}
+.logo{
+    height: 80px;
+    margin-top: 20px;
+}
+.navBar{
+    margin-top: 20px;
+    background-color: #111;
+    color: white;
+}
+.headerList{
+    list-style-type: none;
+}
